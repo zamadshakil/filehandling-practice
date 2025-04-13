@@ -1,2 +1,2 @@
-The sum is: 2
-The avg is: 2
+The sum is: 17
+The avg is: 3
